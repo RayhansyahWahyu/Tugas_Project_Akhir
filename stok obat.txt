@@ -1,0 +1,4 @@
+obat tablet                                               ,20                                                
+obat cair                                               ,20                                                
+obat tetes                                            ,12                                                
+obat serbuk                                            ,20                                                
